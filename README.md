@@ -1,2 +1,0 @@
-# vuevixens
-Created with CodeSandbox
